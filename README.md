@@ -9,30 +9,8 @@
   1.4 没有基础的同学请先自学基础，与本界面无关或是基础问题概不回答，请勿浪费他人时间，谢谢！<br/>
 2. 关于环境、安装、启动、构建以及更新等相关问题，请阅读以下所有内容，谢谢！
 
-## 在线预览(可能部署的不是最新版本，最新版本请下载代码)
-http://www.myopenresources.top/cc-client/#/login
 
 
-## java后端项目
-收费版1（基于本界面与Spring mvc 开发）：https://blog.csdn.net/rotating_windmill/article/details/80640301  <br/>
-收费版2（基于本界面与Spring boot开发）：https://blog.csdn.net/rotating_windmill/article/details/80700660
-
-
-## 界面展示
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-0.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-1.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/theme-green.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-2.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-3.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-4.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-5.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-6.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-7.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-8.png" width="960" height="515" />
-<img src="https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc/cc-9.png" width="960" height="515" />
-
-<br/>
-<a href='https://github.com/332557712/cc/blob/master/src/assets/img/demo/cc'>点击查看更多</a>
 
 
 ## 更新记录
